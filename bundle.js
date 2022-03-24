@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),require("core-js/modules/es6.object.to-string.js"),require("core-js/modules/es6.promise.js");exports.say=function(e){return console.log("name",e),new Promise};
